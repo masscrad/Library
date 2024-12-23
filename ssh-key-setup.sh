@@ -8,7 +8,7 @@ normal=$(tput sgr0)
 logo
 
 #ssh PUBLICK key
-PUB_KEY="aaaaaaaaaa"
+PUB_KEY="ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA31pHiLWoOEBMKIBbpNkYtlcFPJ0v/8CTl0JcWgS6gcj1lgVcbQEImKyoXOqFeJthpdI8/GnP4Fr6WIFQ/PUGOsMQRig3qAUBpch6tDd/v3KxAUtRdauHBxojsYAM7FTjRsxI/G3N10BDlxhFvbl3MKfY7kfUgddgMftfeNptvLEnJfTLFaN61Ky+hJooRG7gXq+EIb5Eia4JVGBjuCVs5kEjwQtqhUKkVfGBIy85ufNJqZL91f0+miBl6QCg5LHDPdvLtixXLzb40tgk16gp8x2RdgXjEq3PQdFclqrkYbXF3o9IM8tQbwW/8noXCa/8RUtfxGR5Iv9dqUAGzYcZ2w== rsa-key-20241222"
 
 #PATH to files
 ssh_config_dir="/etc/ssh"
